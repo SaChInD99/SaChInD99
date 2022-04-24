@@ -2,9 +2,10 @@
 #### I am IT Undergraduate
 ![I am IT Undergraduate](https://wallpapercave.com/wp/wp3082282.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+This is My Github
+
+Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 - 🔭 I’m currently working on  SLIIT 
 - 🌱 I’m currently learning Information Technology 
