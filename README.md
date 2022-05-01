@@ -45,4 +45,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99)  
 
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+
 ![Profile views](https://gpvc.arturio.dev/SaChInD99)  
