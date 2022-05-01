@@ -123,6 +123,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaChInD99_icons=true&theme=radical)
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
