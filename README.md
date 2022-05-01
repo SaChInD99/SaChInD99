@@ -109,7 +109,23 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/SaChInD99/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/SaChInD99/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=SaChInD99&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+    />
+  </a>
+</p>
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
 
