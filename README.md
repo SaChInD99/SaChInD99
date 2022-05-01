@@ -109,8 +109,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 <br/>  
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
 
