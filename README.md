@@ -39,12 +39,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true)  
 
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaChInD99)  
 
 ![GitHub metrics](https://metrics.lecoq.io/SaChInD99)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99)  
 
-<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
 ![Profile views](https://gpvc.arturio.dev/SaChInD99)  
