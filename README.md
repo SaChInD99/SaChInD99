@@ -109,6 +109,18 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 <br/>  
 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
+
+<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SaChInD99)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Github Stats 
+
 <p align="center">
   <a href="https://github.com/SaChInD99/github-readme-stats">
     <img
@@ -126,16 +138,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 </p>
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
-
-<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaChInD99)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
