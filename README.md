@@ -45,7 +45,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ![GitHub metrics](https://metrics.lecoq.io/SaChInD99)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 ![Profile views](https://gpvc.arturio.dev/SaChInD99)  
