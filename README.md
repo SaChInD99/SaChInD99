@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Sachin
+### Hi there 👋 my name is Sachin
 #### I am IT Undergraduate
-![I am IT Undergraduate](https://wallpapercave.com/wp/wp3082282.jpg)
+![I am IT Undergraduate](https://i.gifer.com/BVfZ.mp4)
 
 ### I'm a gamer too, so you might find me on:
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
