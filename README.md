@@ -114,7 +114,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
 
-<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaChInD99)](https://github.com/ryo-ma/github-profile-trophy)
