@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Sachin
+### Hi there👋 my name is Sachin
 #### I am IT Undergraduate
 ![I am IT Undergraduate](https://i.ytimg.com/vi/EdvOApI2PDo/maxresdefault.jpg)
 
