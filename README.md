@@ -121,30 +121,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 </p>
 
-## 🌀 Languages...
 
-<p align="center">
-
-   <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Languages\csharp_dotnet.svg" alt="csharpdotnet" style="vertical-align:top; margin:4px">    
-  <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px"> 
-  <img src="assets\badges\Languages\html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Languages\python.svg" alt="python" style="vertical-align:top; margin:4px">
-
-</p>
-
-## 🛠 Tools...
-
-<p align="center">
-
-   <img src="assets\badges\Tools\jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">    
-  <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Tools\jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
