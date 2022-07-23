@@ -111,18 +111,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ## 🚀 Frameworks...
 
-<p align="center">
-
-   <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
-   <img src="assets\badges\Frameworks\flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
-  <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="assets\badges\Frameworks\angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
-
-</p>
-
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
 
