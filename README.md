@@ -128,7 +128,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaChInD99)](https://github.com/ryo-ma/github-profile-trophy)
+## Trophies 🏆
+
+<p align="left">
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=SaChInD99-hub&column=7&theme=gruvbox&no-frame=true"/>
+</p>
 
 ## Github Stats 
 
