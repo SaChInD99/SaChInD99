@@ -1,6 +1,6 @@
 ### Hi there👋 my name is Sachin
 #### I am IT Undergraduate
-![I am IT Undergraduate](https://i.ytimg.com/vi/EdvOApI2PDo/maxresdefault.jpg)
+
 
 <p align="center">
   <a href="https://github.com/azkadev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
