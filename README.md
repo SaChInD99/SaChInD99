@@ -7,7 +7,7 @@
 </p>
 
 ![I am IT Undergraduate](https://github.com/SaChInD99/SaChInD99/blob/main/ban1.png)
-/*//![I am IT Undergraduate](https://i.ytimg.com/vi/EdvOApI2PDo/maxresdefault.jpg)*/
+![I am IT Undergraduate](https://i.ytimg.com/vi/EdvOApI2PDo/maxresdefault.jpg)
 
 ### I'm a gamer too, so you might find me on:
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
@@ -153,6 +153,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
 
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 <img align="right" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-guy.gif"></a>
 <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/65598902/106381260-c928ee80-63b7-11eb-8b1f-0735e6f7aaa8.gif"></a>
