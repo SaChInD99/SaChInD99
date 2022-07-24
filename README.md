@@ -7,7 +7,7 @@
 </p>
 
 ![I am IT Undergraduate](https://github.com/SaChInD99/SaChInD99/blob/main/ban1.png)
-![I am IT Undergraduate](https://i.ytimg.com/vi/EdvOApI2PDo/maxresdefault.jpg)
+/*//![I am IT Undergraduate](https://i.ytimg.com/vi/EdvOApI2PDo/maxresdefault.jpg)*/
 
 ### I'm a gamer too, so you might find me on:
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
