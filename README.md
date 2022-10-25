@@ -1,5 +1,6 @@
 ### Hi there👋 my name is Sachin
-#### I am IT Undergraduate
+###Quality Assurance Intern
+#### I am IT Undergraduate 
 
 
 <p align="center">
