@@ -1,5 +1,5 @@
 ### Hi there👋 my name is Sachin
-                                                                      Quality Assurance Intern
+                                                             Quality Assurance Intern
 #### I am IT Undergraduate 
 
 
