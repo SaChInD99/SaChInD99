@@ -175,4 +175,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
-![Profile views](https://gpvc.arturio.dev/SaChInD99)  
+<div align="right">
+
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+
+</div>
