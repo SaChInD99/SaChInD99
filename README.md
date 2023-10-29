@@ -115,14 +115,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 </td></tr></table>  
 
-<br/>  
-
-## 🚀 Frameworks...
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
-
-
+<br/> 
 
 ## Trophies 🏆
 
@@ -163,13 +156,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/65598902/106381260-c928ee80-63b7-11eb-8b1f-0735e6f7aaa8.gif"></a>
 <img align="right" width="150" height="150" src="https://78.media.tumblr.com/240d51485c042ab5bed754294ad020c6/tumblr_msz10zJc751svwlszo2_500.gif"></a>
 
-
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaChInD99)  
-
-![GitHub metrics](https://metrics.lecoq.io/SaChInD99)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
