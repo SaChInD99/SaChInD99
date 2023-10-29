@@ -149,7 +149,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
 
-<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/65598902/106381260-c928ee80-63b7-11eb-8b1f-0735e6f7aaa8.gif">
+
 <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/65598902/106381260-c928ee80-63b7-11eb-8b1f-0735e6f7aaa8.gif">
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif">
 <img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
