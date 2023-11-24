@@ -151,7 +151,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif">
 <img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 <img align="right" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/65598902/106381260-c928ee80-63b7-11eb-8b1f-0735e6f7aaa8.gif">
 <img align="right" width="150" height="150" src="https://78.media.tumblr.com/240d51485c042ab5bed754294ad020c6/tumblr_msz10zJc751svwlszo2_500.gif">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
