@@ -1,5 +1,11 @@
 Hi there👋 my name is Sachin
 
+<div align="center">
+  
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+
+</div>
+
 <p align="center">
   <a href="https://github.com/azkadev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;3%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code;3%2B%Quality%20of%20Assurance%20Engineer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
@@ -141,7 +147,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
   </a>
 </p>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
@@ -155,11 +161,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<div align="center">
-  
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
-</div>
