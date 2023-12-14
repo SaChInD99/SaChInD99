@@ -143,6 +143,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=SaChInD99&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     />
   </a>
 </p>
