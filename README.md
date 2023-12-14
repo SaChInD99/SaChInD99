@@ -159,6 +159,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 
 <div align="center">
+  
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 </div>
