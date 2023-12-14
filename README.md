@@ -1,4 +1,4 @@
-### Hi there👋 my name is Sachin
+Hi there👋 my name is Sachin
 
 <p align="center">
   <a href="https://github.com/azkadev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;3%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code;3%2B%Quality%20of%20Assurance%20Engineer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -153,9 +153,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <img align="right" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <img align="right" width="150" height="150" src="https://78.media.tumblr.com/240d51485c042ab5bed754294ad020c6/tumblr_msz10zJc751svwlszo2_500.gif">
 
-<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
 
 <div align="center">
 
