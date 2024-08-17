@@ -156,8 +156,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachind99&show_icons=true&locale=en&layout=compact" alt="sachind99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachind99&show_icons=true&locale=en" alt="sachind99" /></p>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
 
 <div align="left">
