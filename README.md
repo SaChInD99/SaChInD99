@@ -149,13 +149,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
   </a>
 </p>
 <br/> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachind99" alt="sachind99" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachind99&show_icons=true&locale=en&layout=compact" alt="sachind99" /></p>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
 
 <div align="left">
