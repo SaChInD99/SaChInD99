@@ -148,9 +148,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
     />
   </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
 
