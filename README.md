@@ -137,7 +137,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaChInD99&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 <br/> 
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99&theme=tokyonight_duo" alt="7oSkaaa" /></p>
