@@ -138,8 +138,14 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ![](https://github-contributor-stats.vercel.app/api?username=SaChInD99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<br><br><br><br><br>
+<br><br>
+### Spotify Playing 🎧
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
