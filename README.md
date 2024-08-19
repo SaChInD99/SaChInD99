@@ -139,11 +139,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 <br/>
 <br/> 
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaChInD99&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaChInD99&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
   </td>
 </tr>
 </table>
