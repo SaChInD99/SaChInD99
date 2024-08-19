@@ -28,6 +28,7 @@ Hi there👋 my name is Sachin
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
 
 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 This is My Github
 
