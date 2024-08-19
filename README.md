@@ -139,8 +139,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 <br/>
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-<br/> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaChInD99&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=SaChInD99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 <br><br><br><br><br><br><br><br>
 
 
