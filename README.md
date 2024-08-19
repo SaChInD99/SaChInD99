@@ -42,8 +42,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 - 📫 How to reach me: sachindileepa41@gmail.com 
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set 
 
 
 
@@ -120,7 +119,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
 </div>
 
-</td></tr></table>  
+
 
 <br/> 
 
