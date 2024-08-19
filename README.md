@@ -2,8 +2,8 @@ Hi there👋 my name is Sachin
 
 <div align="center">
   
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
+[![](https://visitcount.itsvg.in/api?id=SaChInD99&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
 
 <p align="center">
