@@ -135,17 +135,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 ## Github Stats 
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 <br/>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 <br/> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaChInD99&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  </td>
-</tr>
-</table>
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
