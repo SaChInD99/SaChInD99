@@ -139,7 +139,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 ![](https://github-contributor-stats.vercel.app/api?username=SaChInD99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
  <div align="center">
-	 ![](https://github-contributor-stats.vercel.app/api?username=SaChInD99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
    <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaChInD99&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
   </div>
 
@@ -162,6 +161,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <img align="right" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <img align="right" width="150" height="150" src="https://78.media.tumblr.com/240d51485c042ab5bed754294ad020c6/tumblr_msz10zJc751svwlszo2_500.gif">
 <div>
+
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
 
 
 
