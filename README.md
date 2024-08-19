@@ -136,19 +136,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaChInD99&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaChInD99&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
-<p align="center">
-  <a href="https://github.com/SaChInD99/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachind99&show_icons=true&theme=tokyonight&locale=en" alt="sachind99" /></p>
-    <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaChInD99&theme=radical&hide_border=true&border_radius=5&card_width=536" alt="GitHub Streak" /></a>
-    </p>  
-  </a>
-</p>
 <br/> 
 <table align="center">
 <tr border="none">
