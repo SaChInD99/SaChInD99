@@ -138,6 +138,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ![](https://github-contributor-stats.vercel.app/api?username=SaChInD99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+ <div align="center">
+   <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaChInD99&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
+  </div>
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Spotify Playing 🎧
 
