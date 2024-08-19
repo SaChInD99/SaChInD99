@@ -142,6 +142,14 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
    <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaChInD99&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
   </div>
 
+  <div align="center">
+	
+
+![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaChInD99&layout=compact&theme=synthwave&v=2)
+
+
+</div>
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Spotify Playing 🎧
 
