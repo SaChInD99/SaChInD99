@@ -140,8 +140,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 <br/>
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 <br/> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaChInD99&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-<br><br><br><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaChInD99&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br>
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
