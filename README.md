@@ -135,12 +135,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
   <a href="https://github.com/SaChInD99/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/SaChInD99/github-readme-stats">
-    <img
-      align="center"
       height="165"
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachind99&show_icons=true&theme=tokyonight&locale=en" alt="sachind99" /></p>
     <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SaChInD99&theme=radical&hide_border=true&border_radius=5&card_width=536" alt="GitHub Streak" /></a>
