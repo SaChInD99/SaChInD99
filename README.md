@@ -2,13 +2,14 @@
 
 
 <div align="center">
-  
+	
 [![](https://visitcount.itsvg.in/api?id=SaChInD99&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
 <p align="center">
   <a href="https://github.com/azkadev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;3%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code;3%2B%Quality%20of%20Assurance%20Engineer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+
 </p>
 
 ![I am IT Undergraduate](https://github.com/SaChInD99/SaChInD99/blob/main/ban1.png)
