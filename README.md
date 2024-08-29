@@ -134,9 +134,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 </p>
 
 ## Github Stats 
+ <div align="center">
 <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SaChInD99&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
+</div>
 
  <div align="center">
    <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaChInD99&theme=dracula&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
