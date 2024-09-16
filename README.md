@@ -135,7 +135,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 ## Github Stats 
  <div align="center">
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SaChInD99&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=SaChInD99&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99&langs_count=14&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaChInD99&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 </div>
 
