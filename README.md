@@ -38,8 +38,8 @@ This is My Github
 
 Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
-- 🔭 I’m currently working on  SLIIT 
-- 🌱 I’m currently learning Information Technology 
+- 🔭 I’m currently working as Quality Assurance Engineer
+- 🌱 I’m graduate from SLIIT
 - 📫 How to reach me: sachindileepa41@gmail.com 
 
 
