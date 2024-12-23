@@ -1,8 +1,7 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Sachin!](https://sachind99.github.io/Sachin-Dileepa/) 👋
 
 
-<div align="center">
-	
+<div align="center">	
 [![](https://visitcount.itsvg.in/api?id=SaChInD99&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
